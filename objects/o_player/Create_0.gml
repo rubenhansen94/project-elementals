@@ -3,10 +3,19 @@
 // Call script to initialize the player object as a moving entity
 initialize_movement_entity(.5, 1, o_solid)
 
+// Test function
+// window_set_fullscreen(true); // Works!
+
+// Player Created Global Variables
+
+global.player_health = 10;
+
+
 // Player Instance Variables
 
 direction_facing_ = dir.down;
-speed_ = 1;
+acceleration_ = 0.25;
+max_speed_ = 1;
 
 enum player {
 	move
