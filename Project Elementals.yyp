@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "05d9a93d-dff6-472e-997f-8d09ed6d73ac",
+            "Value": {
+                "id": "ba00bc9f-e12f-4e56-a883-27a32726dc01",
+                "resourcePath": "sprites\\s_mouse_select_box\\s_mouse_select_box.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0d285f21-c12b-41ee-b559-79cbc68d9515",
             "Value": {
                 "id": "9cfdb235-2c3f-49e7-b7ce-34771d42d9d0",
@@ -156,6 +164,14 @@
                 "id": "67b42f7f-7913-453d-9286-828de656a229",
                 "resourcePath": "sprites\\s_grass\\s_grass.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "25a0cf45-574e-49fd-aecc-9f8275949960",
+            "Value": {
+                "id": "671f1560-a035-4d9a-9e4b-0d17f3ade03a",
+                "resourcePath": "objects\\o_mouse_select_box\\o_mouse_select_box.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -447,6 +463,14 @@
             }
         },
         {
+            "Key": "82721576-83d2-43c4-9c86-c74467c18161",
+            "Value": {
+                "id": "785811be-4712-4335-af78-b20c380bfbb2",
+                "resourcePath": "scripts\\DrawGridLines\\DrawGridLines.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "8c039b2e-3736-48a5-9636-28ae203f69f4",
             "Value": {
                 "id": "0a6896f3-0e20-4533-a7aa-e541709f9f30",
@@ -586,7 +610,7 @@
             "Key": "b8ae0646-5fa7-4775-b792-d00590c2a9d6",
             "Value": {
                 "id": "a239859e-66d9-4374-a04a-2a3cf362c80b",
-                "resourcePath": "sprites\\s_tiles_grass\\s_tiles_grass.yy",
+                "resourcePath": "sprites\\s_tiles_grass00\\s_tiles_grass00.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -615,6 +639,14 @@
             }
         },
         {
+            "Key": "bd515405-35c2-4dce-8d67-ea0efdfd403b",
+            "Value": {
+                "id": "ad41ecb4-a0ac-4157-a7ac-d5badefffdb3",
+                "resourcePath": "sprites\\s_mouse_cursor\\s_mouse_cursor.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "bec247af-f716-4cf3-952c-059d4030bf30",
             "Value": {
                 "id": "a9597c18-79eb-4a2a-afd4-3c6818d15c0d",
@@ -628,6 +660,14 @@
                 "id": "92778a31-e765-431c-b18b-9f5548530bd8",
                 "resourcePath": "sprites\/s_run_right_novice_gear\/s_run_right_novice_gear.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c2ec519d-df6e-4aa4-a323-fe33a0bb4183",
+            "Value": {
+                "id": "678d404f-246a-4ec0-a7f2-23212cba4ea7",
+                "resourcePath": "views\\c2ec519d-df6e-4aa4-a323-fe33a0bb4183.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -663,6 +703,14 @@
             }
         },
         {
+            "Key": "ce1cfdc1-64df-42e9-944e-d387ed4b48ac",
+            "Value": {
+                "id": "a89dc64a-336e-4253-b98d-adf738ff299c",
+                "resourcePath": "sprites\\s_tiles_grass01\\s_tiles_grass01.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d084cf39-9fe3-4889-8ad8-30a5769d9839",
             "Value": {
                 "id": "12356d1e-e96b-4afd-9e89-f46295b9ffe9",
@@ -691,6 +739,14 @@
             "Value": {
                 "id": "d7b4d987-baae-4378-9fb5-f17bf77c6539",
                 "resourcePath": "views\/e12ee7fc-f013-4033-8fb0-977fbbebc97b.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e74ee85c-df6a-42aa-bae4-4ed0b9cd5b09",
+            "Value": {
+                "id": "bdbf7556-b538-4c72-96f3-5d97647cd992",
+                "resourcePath": "views\\e74ee85c-df6a-42aa-bae4-4ed0b9cd5b09.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -773,7 +829,8 @@
         "45dd808b-d8be-4e9d-947b-78ca95872703",
         "9441c3b0-949a-42ec-9d11-c60d363c0494",
         "31153a9d-ea12-404f-a88b-7d977ca95fb5",
-        "4b47ca60-bdfa-4d83-a39a-94fb86ba18ef"
+        "4b47ca60-bdfa-4d83-a39a-94fb86ba18ef",
+        "82721576-83d2-43c4-9c86-c74467c18161"
     ],
     "tutorial": ""
 }

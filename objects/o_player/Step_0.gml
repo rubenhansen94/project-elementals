@@ -1,5 +1,5 @@
 /// @description Player step event
-
+window_set_cursor(cr_none); //hide cursor
 // Local Variables
 var _x_input = keyboard_check(ord("D")) - keyboard_check(ord("A"));
 var _y_input = keyboard_check(ord("S")) - keyboard_check(ord("W"));

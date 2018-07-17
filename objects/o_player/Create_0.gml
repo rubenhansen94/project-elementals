@@ -3,10 +3,9 @@
 // Call script to initialize the player object as a moving entity
 initialize_movement_entity(.5, 1, o_solid)
 
-// Test function
-// window_set_fullscreen(true); // Works!
-
 // Player Created Global Variables
+
+window_set_cursor(cr_none); //hide cursor
 
 global.player_health = 10;
 
