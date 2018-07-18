@@ -10,6 +10,8 @@ global.one_second = game_get_speed(gamespeed_fps);
 global.paused = true;
 global.debug = false;
 
+draw_grid_lines_ = false;
+
 if global.one_second != 60 {
 	game_set_speed(60, gamespeed_fps);
 }
@@ -19,6 +21,7 @@ persistent = true;
 // Macros
 #macro cellheight 16
 #macro cellwidth 16
+#macro cellsize 16
 
 //Create the Mouse Select Box
 var _instance_layer = layer_get_id("Instances");

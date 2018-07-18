@@ -1,2 +1,5 @@
 /// @description
-DrawGridLines(cellheight, cellwidth);
+
+if draw_grid_lines_ {
+	DrawGridLines(cellheight, cellwidth);
+}
